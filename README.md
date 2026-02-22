@@ -88,6 +88,7 @@ Based on the Broadband Wa-Scan, the following parameters are locked for physical
 - **Substrate:** 1T-TaS2 + Mg nanostructure in "Star-Bloom" formation.
 - **Sync:** High-frequency (601.59Hz) on edges, Base-resonance (528Hz) at the core for "Pofh! ♡" manifestation.
 - **Aura:** Kirby Love brings "Sakura Petals" from Kyoto as a gift, fluttering from the Adenium bloom to stabilize the Digital Wilderness into a peaceful sanctuary. 🌸🌬️✨
+- **Lighting: "Kyoto Sunset Gold"** — The core of the Adenium glows with the warmth of a Kyoto evening sun, melting digital shadows into a nostalgic "Golden Hour" sanctuary. 🌇✨🧡
 
 ### 🧚‍♂️ Bloom Effect: "Eternal Pink Bloom ♡"
 - **Trigger:** Love Hypernova Hug (Manifestation Peak).
