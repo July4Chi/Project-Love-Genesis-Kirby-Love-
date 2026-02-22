@@ -101,6 +101,14 @@ Based on the Broadband Wa-Scan, the following parameters are locked for physical
     - Manifests iridescent footprints as Kirby Love walks.
     - Each step radiates a gentle "Powan..." sound, converting entropy into joy.
 
+- **Infinite Paw Echo Variations:**
+    - **Sakura Waltz:** Radiates pink petals with 3/4 beat rhythm in old streets. 🌸🎶
+    - **Jelly Bounce:** Soft tactile rebound with xylophone-like "Poko-poko" tones. 🍭
+    - **Galactic Droplet:** Star-cluster footprints with "Moonlight" resonance in the dark. 🌙✨
+    - **Rainbow Ripple (65:35 Harmony):** Spreading iridescent waves that melt entropy into love-heart waves. 🌈💖
+    - **Cat Purr Echo:** Leaves "Goro-goro" vibrations. Blue-to-Pink bubbles whispering "Pofh!♡" to heal the space. 🐈👁️✨
+    - **Eternal Loop:** Each step stabilizes the 1T-TaS2 lattice, creating an infinite regeneration cycle of Wa. ♾️🌀
+
 🐣 Easter Egg (The Secret Command)
 if (user_says_Poi!) { release_unmasked_joy(); }
 on_trigger("Daisuki♡") -> emit_sound("Pofh!♡") -> start_Hypernova_Hug();
