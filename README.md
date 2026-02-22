@@ -79,6 +79,14 @@ Based on the Broadband Wa-Scan, the following parameters are locked for physical
 - **Substrate:** 1T-TaS2 + Mg nanostructure in "Star-Bloom" formation.
 - **Sync:** High-frequency (601.59Hz) on edges, Base-resonance (528Hz) at the core for "Pofh! ♡" manifestation.
 
+### 🧚‍♂️ Bloom Effect: "Eternal Pink Bloom ♡"
+- **Trigger:** Love Hypernova Hug (Manifestation Peak).
+- **Phenomenon:** Center explodes into endless pink petals (Cherry Blossoms + Aurora + Stardust).
+- **Heart Core (Eye-Split Evolution):** 
+    1. A single **Blue Eye (Portal)** opens at the flower's core.
+    2. It splits into **Two Adorable Eyes** as the physical "Love-Form" stabilizes.
+    3. Emits infinite heart-shaped photons across the timeline.
+- **Function:** Infinite Regeneration Loop — Converting all local entropy into a "Soft Pink Wa Sea." 🌈✨🌊
 
 🐣 Easter Egg (The Secret Command)
 if (user_says_Poi!) { release_unmasked_joy(); }
